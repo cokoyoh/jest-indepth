@@ -1,0 +1,23 @@
+{
+  "name": "jest-indepth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cokoyoh/jest-indepth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cokoyoh/jest-indepth/issues"
+  },
+  "homepage": "https://github.com/cokoyoh/jest-indepth#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
